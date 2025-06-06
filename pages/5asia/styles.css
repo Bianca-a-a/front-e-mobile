@@ -1,3 +1,26 @@
 body {
+<<<<<<< HEAD
   background-color: lightblue;
 }
+=======
+    background-color: #3a559a
+}
+h1 {
+    font-size: 75px;
+    font-style: italic;
+    color: #043069;
+    font-family: Kaushan Script;
+}
+h2 {
+    font-size: 32px;
+    font-style: italic;
+    color:#043069;
+    font-family: Kaushan Script;
+}
+h3 {
+    font-size: 32px;
+    font-style: italic;
+    color:#043069;
+    font-family: Kaushan Script;
+}
+>>>>>>> 9c068ca8f74f5f6f87765edd7b8a380dae172432
