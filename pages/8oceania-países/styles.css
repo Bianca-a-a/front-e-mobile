@@ -22,4 +22,9 @@ h4{
     color: aliceblue;
     font-style: normal;
 }
-
+img{
+    size: 30%;
+}
+.botao{
+    justify-content: center;
+}
