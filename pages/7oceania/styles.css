@@ -22,8 +22,14 @@ h4{
     color: aliceblue;
     font-style: normal;
 }
+<<<<<<< HEAD
 .pagination{
     align-items: center;
     border-radius: none;
     border-top: 10px;
 }
+=======
+img{
+    width: 30%;
+}
+>>>>>>> cce68c6b5a15e037d1b21acf4e32dc06e17cb25b
