@@ -22,9 +22,19 @@ h4{
     color: aliceblue;
     font-style: normal;
 }
+<<<<<<< HEAD
+.lugares{
+    border: 50px;
+}
+.pagination{
+    align-items: center;
+    border-radius: none;
+    border-top: 10px;
+=======
 img{
     size: 30%;
 }
 .botao{
     justify-content: center;
+>>>>>>> cce68c6b5a15e037d1b21acf4e32dc06e17cb25b
 }

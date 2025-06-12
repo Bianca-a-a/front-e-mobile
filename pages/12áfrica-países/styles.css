@@ -18,4 +18,24 @@ img{
     height: 70%;
     width: 70%;
     align-items: center;
+
 }
+ .botoes-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+    max-width: 600px;
+    margin: 2rem auto;
+  }
+
+  .botoes-container button {
+    flex: 1 1 calc(50% - 0.5rem); /* 2 por linha com espaçamento */
+    line-height: 20ex;
+    font-size: 30px;
+    width: 30x;
+
+
+
+  }
+
