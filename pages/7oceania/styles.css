@@ -22,3 +22,8 @@ h4{
     color: aliceblue;
     font-style: normal;
 }
+.pagination{
+    align-items: center;
+    border-radius: none;
+    border-top: 10px;
+}
