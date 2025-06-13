@@ -7,7 +7,7 @@ h3{
     font-size: 24;
 }
 h4{
-    color: #d8cdcd;
+    color: #ccbebe;
     font-family: Abhaya Libre;
     font-size: 24;
 }
@@ -20,7 +20,21 @@ h4{
     background-color: #6F0A0A;
     border: #4B0404;
     border-radius: 25px;
+    font-size: 15px;
 }
-.feedback{
-    color: aqua;
+.enviar{
+    background-color: #6F0A0A;
+    border: #4B0404;
+    border-radius: 25px;
+    font-size: 15px;
+}
+h5{
+    color: #4B0404;
+    font-family: Abhaya Libre;
+    font-size: 20;
+}
+h6{
+    color: #ccbebe;
+    font-family: Abhaya Libre;
+    font-size: 20;
 }

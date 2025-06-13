@@ -11,3 +11,14 @@ bi bi-person-circle{
     justify-content: center;
    
 }
+
+h1{
+    text-align: center;
+    font-size: 91px;
+}
+
+.form-control{
+    color: #A30C1D;
+    background-color: #6E0A0A;
+    padding: 10px ;
+}
