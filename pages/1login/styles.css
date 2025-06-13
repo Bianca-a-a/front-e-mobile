@@ -1,3 +1,13 @@
 body {
     background-color: #A30C1D;
 }
+
+bi bi-person-circle{
+    text-align:center;
+}
+.icone {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+}
