@@ -7,7 +7,20 @@ h3{
     font-size: 24;
 }
 h4{
-    color: #FFFFFF;
+    color: #d8cdcd;
     font-family: Abhaya Libre;
     font-size: 24;
+}
+.btn{
+    color: #ffffff;
+    background-color: #A30C1D;
+}
+.texto{
+    
+    background-color: #6F0A0A;
+    border: #4B0404;
+    border-radius: 25px;
+}
+.feedback{
+    color: aqua;
 }
