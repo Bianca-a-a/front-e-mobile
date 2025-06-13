@@ -1,0 +1,43 @@
+body{
+    background-color: #399C25;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Kaushan Script;
+    color: #14600B;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    text-align: left;
+}
+
+        .paises {
+          display: flex;
+          align-items: flex-start;
+          width: 41; 
+          height: 31px;
+          margin: 10px;
+          flex-direction: column;
+          gap: 10px;
+        }
+        .paises img {
+          width: 41; 
+          height: 31px; 
+          float: left;
+        }
+        .paises p {
+          width: 41; 
+        }
+  
+
+ .cards{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 100%;
+ }

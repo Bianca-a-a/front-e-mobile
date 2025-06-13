@@ -1,0 +1,40 @@
+body {
+    background-color: #ae4d4d;
+}
+h1{
+    font-style: inherit;
+    font-size: 96px;
+    color: #5c1e1e;
+    font-family: Luxurious Script;
+    border: none;
+    margin: 0%;
+}
+h3{
+    color: #5c1e1e;
+    font-family: Libre Caslon Display;
+    font-size: 24px;
+    border-bottom: 0%;
+    margin-bottom: 0%;
+}
+h4{
+    font-family: Life Savers;
+    font-size: 18px;
+    color: aliceblue;
+    font-style: normal;
+}
+<<<<<<< HEAD
+.lugares{
+    border: 50px;
+}
+.pagination{
+    align-items: center;
+    border-radius: none;
+    border-top: 10px;
+=======
+img{
+    size: 30%;
+}
+.botao{
+    justify-content: center;
+>>>>>>> cce68c6b5a15e037d1b21acf4e32dc06e17cb25b
+}
