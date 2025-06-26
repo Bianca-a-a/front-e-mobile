@@ -1,1 +1,23 @@
-/* pagina do artur */
+body{
+    background-color: #A30C1D;
+}
+h1{
+    color: #6F0A0A;
+    font-family: Lemon;
+    font-size: 32px;
+    text-align: center;
+}
+.btn{
+    color: #A30C1D;
+    background-color: #6F0A0A;
+    border-color: #6F0A0A;
+    border-right: #6F0A0A;
+    border-bottom: #6F0A0A;
+    border-left: #6F0A0A;
+    border-top: #6F0A0A;
+}
+.mx-auto{
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
