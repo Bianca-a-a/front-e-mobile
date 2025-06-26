@@ -1,39 +1,25 @@
 body {
-<<<<<<< HEAD
     background-color:#3a559a;
-=======
     background-color: #3a559a;
->>>>>>> fb084a5cd303482601a538997f3f6525d69f1a38
 }
 h1 {
     font-size: 75px;
     font-style: italic;
-<<<<<<< HEAD
     color:#043069;
-=======
     color: #043069;
->>>>>>> fb084a5cd303482601a538997f3f6525d69f1a38
     font-family: Kaushan Script;
 }
 h2 {
     font-size: 32px;
     font-style: italic;
-<<<<<<< HEAD
     color:#043069;
-=======
     color: #043069;
->>>>>>> fb084a5cd303482601a538997f3f6525d69f1a38
     font-family: Kaushan Script;
 }
 h3 {
     font-size: 32px;
     font-style: italic;
-<<<<<<< HEAD
     color:#043069;
     font-family: Kaushan Script;
 }
-=======
-    color: #043069;
-    font-family: Kaushan Script;
-}
->>>>>>> fb084a5cd303482601a538997f3f6525d69f1a38
+
