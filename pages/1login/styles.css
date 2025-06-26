@@ -21,4 +21,21 @@ h1{
     color: #A30C1D;
     background-color: #6E0A0A;
     padding: 10px ;
+    border-color: #6E0A0A;
+    
+    
+}
+
+.btn{
+    background-color: #6E0A0A;
+    border-color: #6E0A0A;
+    padding: 15px 44px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 6px 50px;
+    border-radius: 10px;
+    width: 280px;
+    height: 48px;
 }
