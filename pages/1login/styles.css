@@ -49,3 +49,8 @@ label{
     width: 280px;
     height: 48px;
 }
+
+.mb-3{
+flex-direction: column;
+-ms-flex-align: center;
+}
