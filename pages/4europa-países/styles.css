@@ -25,16 +25,26 @@ img{
           flex-direction: column;
           gap: 10px;
         }
-        .paises img {
-          width: 41; 
-          height: 31px; 
-          float: left;
-        }
-        .paises p {
-          width: 41; 
-        }
-  
 
+<<<<<<< HEAD
+              .paises img {
+               width: 41; 
+               height: 31px; 
+               float: left;
+         }
+
+                .paises p {
+                 width: 41px; 
+             }
+
+                   .cards {
+                    display: flex;
+                    flex-direction: row;
+                    gap: 10px;
+                   width: 100%;
+               } 
+       
+=======
  .cards{
     display: flex;
     flex-direction: row;
@@ -45,3 +55,4 @@ img{
  .pagination{
  padding-top: 160%;
  }
+>>>>>>> 7619b3f3d87ef5935d80c565321333c86ac006d9
