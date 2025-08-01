@@ -3,27 +3,28 @@ body {
 }
 h1{
     font-style: inherit;
-    font-size: 90px;
+    font-size: 98px;
     color: #5c1e1e;
     font-family: Luxurious Script;
     border: none;
     margin: 0%;
+
 }
 h3{
     color: #5c1e1e;
     font-family: Libre Caslon Display;
-    font-size: 20px;
+    font-size: 18px;
     border-bottom: 0%;
     margin-bottom: 0%;
 }
 h4{
     font-family: Life Savers;
-    font-size: 18px;
+    font-size: 16px;
     color: aliceblue;
     font-style: normal;
 }
 .lugares{
-    border: 50px;
+    border: 48px;
 }
 .pagination{
     align-items: center;

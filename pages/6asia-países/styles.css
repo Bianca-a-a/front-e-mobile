@@ -6,5 +6,23 @@ h1 {
     font-style: italic;
     color: #043069;
     font-family: Kaushan Script;
+} 
+img {
+    width: 141px;
+    height: 100px;
+    margin-bottom: 20px;
 }
-     
+
+
+.container {
+    display: flex;
+    align-items: center;
+} 
+ .container img {
+  margin-right: 5px;
+}
+ .texto {
+    position: relative;
+    top: -50px;  /* Mover o texto 50px para cima */
+}
+
