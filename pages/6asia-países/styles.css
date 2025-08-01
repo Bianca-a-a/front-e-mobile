@@ -1,5 +1,5 @@
 body {
-    background-color:#3a559a ;
+    background-color:#3a559a !important ;
 }
 h1 {
     font-size: 75px;
@@ -8,12 +8,20 @@ h1 {
     font-family: Kaushan Script;
 } 
 img {
+    width: 141px;
     height: 100px;
+    margin-bottom: 20px;
 }
-
 
 .container {
     display: flex;
     align-items: center;
+} 
+ .container img {
+  margin-right: 5px;
+}
+ .texto {
+    position: relative;
+    top: -50px; 
 }
 

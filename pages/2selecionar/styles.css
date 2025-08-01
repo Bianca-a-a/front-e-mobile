@@ -6,6 +6,8 @@ h1{
     font-family: Lemon;
     font-size: 32px;
     text-align: center;
+    padding: 25px;
+    padding-top: 5%;
 }
 .btn{
     color: #A30C1D;
@@ -31,8 +33,9 @@ h1{
     border-top: none;
     border-right: none;
     border-left: none;
-    border-radius: 20px;
+    border-radius: 10px;
     width: 155%;
     height: 13%;
     align-content: center;
+    padding-bottom: 50%;
 }
