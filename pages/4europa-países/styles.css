@@ -25,19 +25,21 @@ img{
           flex-direction: column;
           gap: 10px;
         }
-        .paises img {
-          width: 41; 
-          height: 31px; 
-          float: left;
-        }
-        .paises p {
-          width: 41; 
-        }
-  
 
- .cards{
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    width: 100%;
- }
+              .paises img {
+               width: 41; 
+               height: 31px; 
+               float: left;
+         }
+
+                .paises p {
+                 width: 41px; 
+             }
+
+                   .cards {
+                    display: flex;
+                    flex-direction: row;
+                    gap: 10px;
+                   width: 100%;
+               } 
+       
