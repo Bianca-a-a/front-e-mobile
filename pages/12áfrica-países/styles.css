@@ -31,11 +31,16 @@ img{
   margin: 4rem auto;
   height: 600px; /* Altura do container */
   color: #ff6200 !important 
- 
+
 }
 
 .botoes-container a {
   flex: 1 1 calc(50% - 0.5rem); /* 2 por linha com espaçamento */
   width: 700px; /* 70% da largura da tela */
+  color: #000000 !important;
+  height: 30%;
+  font-size: 60px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #ff6200;
 }
 
