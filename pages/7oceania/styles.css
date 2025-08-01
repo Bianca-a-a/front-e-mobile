@@ -32,3 +32,8 @@ h4{
 img{
     width: 40%;
 }
+
+.flags{
+    message: "'fields' query not specified",
+    "status": 400;
+}
