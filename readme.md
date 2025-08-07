@@ -65,8 +65,8 @@
     A parte inferior possui a mesma flecha das outroas páginas, mas essa com apenas a possibilidade de volta, levando o usuário até a página de seleção novamente.
 
 ### Computador
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania2-pc.png">
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania2-pc.png">
+<img src="imagens-para-readme\Oceania\Oceania\tela-final-pc.png">
+<img src="imagens-para-readme\Oceania\Oceania\tela-final-avaliacao-pc copy.png">
     A tela final para computador é igual a para mobile, apenas com a caixa de texto sendo a única coisa centralizada na tela. De resto, tudo permanece igual.
 
 ### Problemas
