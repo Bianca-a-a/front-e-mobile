@@ -81,6 +81,9 @@
 # Kamilly L.
 
 ## Ásia 1
+## Computador
+<img src="imagens-para-readme\Ásia\Ásia\tela-asia1-pc.png">
+  Nessa página, o fundo dele é um azul claro para diferenciar do título e do subtítulo, que são um azul escuro. A fonte e a cor permanecem o mesmo.
 
 ## Ásia 2
 
