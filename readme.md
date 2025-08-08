@@ -1,3 +1,10 @@
+# Geral
+O site é informativo sobre diferentes continentes no mundo, tendo explicações básicas sobre cada um dos lugares com fotos de bandeiras para melhor visualização.
+
+## Protótipo no Figma: https://www.figma.com/design/kNdovH9TzaNR7GEaSBYznT/Untitled?node-id=0-1&t=aGqxqMFFuf9ORMRm-1
+
+## Link de APIs: https://restcountries.com/v3.1/all?fields=name,flags
+
 # Maria L.
 ## Tela de login
 
