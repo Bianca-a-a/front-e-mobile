@@ -1,3 +1,7 @@
+# Geral
+O site é informativo sobre diferentes continentes no mundo
+
+
 # Maria L.
 ## Tela de login
 
@@ -59,7 +63,6 @@
 ## Tela final
 ### Mobile
 <img src="imagens-para-readme\Oceania\Oceania\tela-final-mobile.png">
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania2-pc.png">
     A tela final possui as mesmas cores do login, com subtítulos em vermelho e outros textos em branco.
     Possui a mesma navbar do "selecionar", possibilitando uma avaliação.
     Tem uma caixa de texto para que um feedback seja enviado ee embaixo tem os nomes de quem desenvolveu.
