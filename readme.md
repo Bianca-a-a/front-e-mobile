@@ -21,14 +21,60 @@ O site é informativo sobre diferentes continentes no mundo, tendo explicações
    
 ### Problemas
     A tela de computador deu mais problemas, eu não consegui por os botões de login e "remember me" no centro igual aos outros botões. Um problema das duas telas foi o botão de login, ele não leva para a proxima página, se clicar no botão, não ira acontecer nada.
-    
-
 
 ## Europa 1
+### Mobile
+<img src="imagens-para-readme/img/europa/europa1-mobile.png">
+<img src="imagens-para-readme/img/europa/europa2-mobile.png">
+Tive que colocar está pequena imagem, pois não coube tudo em apenas uma imagem só.
+
+   A tela tem uma cor verde clara, enquanto o título tem uma cor verde escuro, as escritas são em pretos, e tem uma fonte diferente do título.
+   A navbar está encima, possui a cor branca, contém "botões" que ao clicar encaminhara a primeira página sobre cada continente, também sendo possível ir para a página de login. 
+   Na parte de baixo, possui duas setas, a que mostra para a esquerda, volta para a página selecionar, para a direita, irá para a segunda página sobre a Europa. 
+
+<img src="imagens-para-readme/img/europa/Europa1-computador.png">
+<img src="imagens-para-readme/img/europa/europa2-computador.png">
+
+   As cores presentes na tela de celular, são iguais para a de computador. Partes escritas e a imagem estão coladas ao canto esquerdo.
+   A navbar continua com o mesmo funcionamento. 
+   As setas também coninuam com o mesmo funcionamento. Levando o usuário para a págian selecionar e a proxima página da Europa.
+
+   ### Probelamas
+
+    Eu não consegui mudar a cor do mapa, ele permaneceu azul. Para a tela computador, as letras ficaram um pouco pequenas, então ficou uma grande pare verde.
 
 ## Europa 2
+### Mobile
+<img src="imagens-para-readme/img/europa/Paises1-mobile.png">
+<img src="imagens-para-readme/img/europa/Paises2-mobile.png">
+<img src="imagens-para-readme/img/europa/Paises3-mobile.png">
+Precisei por três imagens, pois não couberam em apenas uma.
+
+   O fundo tem uma cor verde clara, e seu título um verde escuro. 
+   Está págiana tem 12 países e suas capitais, elas estão no canto esquerdo, com suas escritas ao lado e embaixo. 
+   A navbar está encima, contendo a mesma função da página anterior, com os "botões" para poder navegar de continente em continente.
+   As flechas estão encima, elas levam para a página anterior, a primeira da Europa, e para a página seguinte, levando para o continente da Asia. 
+
+### Computador
+
+<img src="imagens-para-readme/img/europa/Paises1-computador.png">
+<img src="imagens-para-readme/img/europa/paises2-computador.png">
+<img src="imagens-para-readme/img/europa/paises3-computador.png">
+
+   As cores presentes na tela para celular, estão identicas aqui. 
+   A navbar com o mesmo funcionamento e as flechas também.
+
+### Problemas
+
+    Um problemas que estragou completamente minha página, foi um codigo que colocaram na meu CSS, eu não sei se acabou sendo sem querer alguem do meu grupo ou uma pessoa de fora da sala. O codigo fez as capitais dos paíeses irem para baixo da imagem, antes elas estavam ao lado. Eu não consegui indentificar o erro que ainda estava deixando as escritas para baixo. 
+   
 
 ## Considerações finais
+
+   Boa parte dos códigos eu acabei desistindo de ajeiar, acabando que minhas páginas ficaram esteticamente feias.
+   O problema que houve com o código no meu CSS, eu não consegui ajeitar, e faltava pouco tempo para a entrega do trabalho, então eu apenas desesti de ajeitar.
+   Se tem API, eu não sei, se eu acabei colocando, eu provavelmente esqueci.
+   Talvez a erro de ortografia aqui na readme e no trabalho, sinceramente, me desculpe.
 
 
 # Bianca A.
