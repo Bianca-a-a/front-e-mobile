@@ -7,6 +7,22 @@ O site é informativo sobre diferentes continentes no mundo, tendo explicações
 
 # Maria L.
 ## Tela de login
+### Mobile 
+<img src="imagens-para-readme/img/europa/login-mobile.png">
+
+   A tela contem um fundo vermelho e os botões um vermelho mais escuro. A figura de personagem está centralizada junto aos botões, a figura de engrenagem está no canto inferior esquerdo.
+   Todos os botões são funcionais, com excação de apenas um, os botões de "e-mail", "senha" e "remember me", podem escrever e clicsr, já o botão de "login", pode ser clicado, mas não passa parra a página de selecionar, ele não funciona.
+
+### Computador 
+   <img src="imagens-para-readme/img/europa/login-computador.png">
+
+   As mesmas cores presentes na tela de celular, tem na de computador. A figura e os botões estão centralizados, apenas o botão de login e "remeber me" estão no canto inferior esquerdo.
+   Os botões contém a mesma função, e o problema do botão de login não foi resolvido. 
+   
+### Problemas
+    A tela de computador deu mais problemas, eu não consegui por os botões de login e "remember me" no centro igual aos outros botões. Um problema das duas telas foi o botão de login, ele não leva para a proxima página, se clicar no botão, não ira acontecer nada.
+    
+
 
 ## Europa 1
 
