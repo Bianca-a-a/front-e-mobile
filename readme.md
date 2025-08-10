@@ -151,13 +151,45 @@ Precisei por três imagens, pois não couberam em apenas uma.
 
 ## Ásia 1
 ## Computador
-<img src="imagens-para-readme\Ásia\Ásia\tela-asia1-pc.png">
-  Nessa página, o fundo dele é um azul claro para diferenciar do título e do subtítulo, que são um azul escuro. A fonte e a cor permanecem o mesmo.
+<img src="imagens para a readme\Ásia\Ásia\tela-asia-1-pc.png">
+<img src="imagens para a readme\Ásia\Ásia\tela-asia-2-pc.png">
+  Nessas páginas, o fundo dele é um azul meio claro e meio escuro, para diferenciar da cor do título e dos subtítulos que são um azul marinho. Todos os textos sobre o continente são pretos.
+  Na parte de cima tem a navbar, nela contém "botões" para que possa selecionar em qual continente você queira ver.
+  E na parte de baixo, possui "setas", para que você possa ir pro lado direito, que vai para a segunda página sobre a Ásia. E o lado esquerdo, que volta para a página sobre a Europa.
+
+  Na segunda página sobre a Ásia, mostra os páises que estão nesse continente, a navbar permanece igual.
+  As setas que etsão na parte de baixo, pode ir para a direita, que vai para a página falando sobre a Oceania, ou vai para a esquerda, que volta para a página falando sobre a Ásia.
+
+ ### Problemas
+ O mapa que está na parte de cima, eu não consegui mudar o fundo dele, para que ele fiquasse da mesma cor do fundo da página.
 
 ## Ásia 2
+## Mobile
+<img src="imagens para a readme\Ásia\Ásia\tela-asia-1-mobile.png">
+<ima src="imagens para a readme\Ásia\Ásia\tela-asia-1-baixo-mobile.png">
+Eu tive que colocar a imagem pequena, pois não coube na mesma imagem.
+
+A página não mudou nada, continua com as mesmas cores e mesmo estilo de letra, igual está no computador. Só ficou meio colado com a lateral da tela do celular.
+E a navbar contuna a mesma para selecionar, e as setas está posicionada na parte de baixo no celular, igual com está no computador., para ir tantto para a direita, mostrando mais sobre a Ásia, quantto ir para a esquerda, mostrando sobre a Europa.
+
+## Países no mobile
+<img src="imagens para a readme\Ásia\Ásia\tela-asia-paises-1-mobile.png">
+<img src="imagens para a readme\Ásia\Ásia\tela-asia-paises-2-mobile.png">
+<img src="imagens para a readme\Ásia\Ásia\tela-asia-paises-3-mobile.png">
+Tive que pôr as imagens em três partes, pois não coube tudo em uma imagem.
+
+Essa página não mudou nada tambèm, continua com a mesma aparência da que está no computador.
+E tanto a navbar que está na parte superior do celular, quanto as setas que estão na parte inferior do celular, não tiveram modificação alguma.
+
+### Problemas
+Eu tive problema no momento de centralizar as imagens para o celular, pois quando eu voltava para a página dos países, as imagens retornavam a ficar desigual.
 
 ## Considerações finais
-
+Tive alguns (muitos) durante o processo desse código, pois não estava funcionando. Mas as minhas colegas (Bianca e Maria Luiza) me ajudaram nesses problemas.
+Eu achei a estética até que aceitável, não ficou feio. Porém, não ficou uma maravilha.
+Também, tive problemas com o computador, pois alguém excluiu tudo no meu computador. Então tive que abaixar tudo de volta e ajeitar tudo novamente.
+Se tem API, eu não faço a mínima idéia, se eu acabei colocando, eu provavelmente esqueci.
+Pode conter algum erro no código, então, já peço perdão.
 
 # Isabella V.
 
@@ -166,7 +198,6 @@ Precisei por três imagens, pois não couberam em apenas uma.
 ## América 2
 
 ## Considerações finais
-
 
 # Samara S.
 
