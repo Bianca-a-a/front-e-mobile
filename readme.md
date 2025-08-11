@@ -151,6 +151,7 @@ Precisei por três imagens, pois não couberam em apenas uma.
 
 ## Ásia 1
 ## Computador
+![ásia](assets/png-Ásia1-pc.png)
 <img src="imagens-para-readme\Ásia\Ásia\img\png-Ásia1-pc.png">
 <img src="imagens-para-readme\Ásia\Ásia\img\png.Ásia2-paises-pc.png">
   Nessas páginas, o fundo dele é um azul meio claro e meio escuro, para diferenciar da cor do título e dos subtítulos que são um azul marinho. Todos os textos sobre o continente são pretos.
