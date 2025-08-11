@@ -153,6 +153,7 @@ Precisei por três imagens, pois não couberam em apenas uma.
 ## Computador
 ![ásia](assets/png-Ásia1-pc.png)
 ![ásia](assets/png.Ásia2-paises-pc.png)
+
   Nessas páginas, o fundo dele é um azul meio claro e meio escuro, para diferenciar da cor do título e dos subtítulos que são um azul marinho. Todos os textos sobre o continente são pretos.
   Na parte de cima tem a navbar, nela contém "botões" para que possa selecionar em qual continente você queira ver.
   E na parte de baixo, possui "setas", para que você possa ir pro lado direito, que vai para a segunda página sobre a Ásia. E o lado esquerdo, que volta para a página sobre a Europa.
@@ -176,9 +177,8 @@ E a navbar contuna a mesma para selecionar, e as setas está posicionada na part
 ![ásia](assets/png-Ásia2-paises-mobile.png)
 ![ásia](assets/png-Ásia2-paises2-mobile.png)
 ![ásia](assets/png-Ásia2-paises3-mobile.png)
-<img src="imagens-para-readme\Ásia\Ásia\img\png-Ásia2-paises-mobile.png">
-<img src="imagens-para-readme\Ásia\Ásia\img\png-Ásia2-paises2-mobile.png">
-<img src="imagens-para-readme\Ásia\Ásia\img\png-Ásia2-paises3-mobile.png">
+
+
 Tive que pôr as imagens em três partes, pois não coube tudo em uma imagem.
 
 Essa página não mudou nada tambèm, continua com a mesma aparência da que está no computador.
