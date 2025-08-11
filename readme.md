@@ -168,6 +168,8 @@ Precisei por três imagens, pois não couberam em apenas uma.
 ## Mobile
 ![ásia](assets/png.Ásia1-mobile.png)
 ![ásia](assets/png.Ásia1-baixo-mobile.png)
+
+
 Eu tive que colocar a imagem pequena, pois não coube na mesma imagem.
 
 A página não mudou nada, continua com as mesmas cores e mesmo estilo de letra, igual está no computador. Só ficou meio colado com a lateral da tela do celular.
@@ -177,7 +179,6 @@ E a navbar contuna a mesma para selecionar, e as setas está posicionada na part
 ![ásia](assets/png-Ásia2-paises-mobile.png)
 ![ásia](assets/png-Ásia2-paises2-mobile.png)
 ![ásia](assets/png-Ásia2-paises3-mobile.png)
-
 
 
 Tive que pôr as imagens em três partes, pois não coube tudo em uma imagem.
