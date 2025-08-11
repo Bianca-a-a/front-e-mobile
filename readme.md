@@ -151,8 +151,8 @@ Precisei por três imagens, pois não couberam em apenas uma.
 
 ## Ásia 1
 ## Computador
-<img src="imagens-para-readme\Ásia\Ásia\img\tela-asia-1-pc.png">
-<img src="imagens-para-readme\Ásia\Ásia\img\tela-asia-2-pc.png">
+<img src="imagens-para-readme\Ásia\Ásia\img\png-Ásia1-pc.png">
+<img src="imagens-para-readme\Ásia\Ásia\img\png.Ásia2-paises-pc.png">
   Nessas páginas, o fundo dele é um azul meio claro e meio escuro, para diferenciar da cor do título e dos subtítulos que são um azul marinho. Todos os textos sobre o continente são pretos.
   Na parte de cima tem a navbar, nela contém "botões" para que possa selecionar em qual continente você queira ver.
   E na parte de baixo, possui "setas", para que você possa ir pro lado direito, que vai para a segunda página sobre a Ásia. E o lado esquerdo, que volta para a página sobre a Europa.
@@ -165,17 +165,17 @@ Precisei por três imagens, pois não couberam em apenas uma.
 
 ## Ásia 2
 ## Mobile
-<img src="imagens-para-readme\Ásia\Ásia\img\tela-asia-1-mobile.png">
-<ima src="imagens-para-readme\Ásia\Ásia\img\tela-asia-1-baixo-mobile.png">
+<img src="imagens-para-readme\Ásia\Ásia\img\png.Ásia1-mobile.png">
+<ima src="imagens-para-readme\Ásia\Ásia\img\png.Ásia1-baixo-mobile.png">
 Eu tive que colocar a imagem pequena, pois não coube na mesma imagem.
 
 A página não mudou nada, continua com as mesmas cores e mesmo estilo de letra, igual está no computador. Só ficou meio colado com a lateral da tela do celular.
 E a navbar contuna a mesma para selecionar, e as setas está posicionada na parte de baixo no celular, igual com está no computador., para ir tantto para a direita, mostrando mais sobre a Ásia, quantto ir para a esquerda, mostrando sobre a Europa.
 
 ## Países no mobile
-<img src="imagens-para-readme\Ásia\Ásia\img\tela-asia-paises-1-mobile.png">
-<img src="imagens-para-readme\Ásia\Ásia\img\tela-asia-paises-2-mobile.png">
-<img src="imagens-para-readme\Ásia\Ásia\img\tela-asia-paises-3-mobile.png">
+<img src="imagens-para-readme\Ásia\Ásia\img\png-Ásia2-paises-mobile.png">
+<img src="imagens-para-readme\Ásia\Ásia\img\png-Ásia2-paises2-mobile.png">
+<img src="imagens-para-readme\Ásia\Ásia\img\png-Ásia2-paises3-mobile.png">
 Tive que pôr as imagens em três partes, pois não coube tudo em uma imagem.
 
 Essa página não mudou nada tambèm, continua com a mesma aparência da que está no computador.
