@@ -179,6 +179,7 @@ E a navbar contuna a mesma para selecionar, e as setas está posicionada na part
 ![ásia](assets/png-Ásia2-paises3-mobile.png)
 
 
+
 Tive que pôr as imagens em três partes, pois não coube tudo em uma imagem.
 
 Essa página não mudou nada tambèm, continua com a mesma aparência da que está no computador.
