@@ -190,7 +190,7 @@ E tanto a navbar que está na parte superior do celular, quanto as setas que est
 Eu tive problema no momento de centralizar as imagens para o celular, pois quando eu voltava para a página dos países, as imagens retornavam a ficar desigual.
 
 ## Considerações finais
-Tive alguns (muitos) durante o processo desse código, pois não estava funcionando. Mas as minhas colegas (Bianca e Maria Luiza) me ajudaram nesses problemas.
+Tive alguns (muitos) problemas durante o processo desse código, pois não estava funcionando. Mas as minhas colegas (Bianca e Maria Luiza) me ajudaram nesses problemas.
 Eu achei a estética até que aceitável, não ficou feio. Porém, não ficou uma maravilha.
 Também, tive problemas com o computador, pois alguém excluiu tudo no meu computador. Então tive que abaixar tudo de volta e ajeitar tudo novamente.
 Se tem API, eu não faço a mínima idéia, porém, se eu por um acaso ter colocando, eu provavelmente esqueci.
