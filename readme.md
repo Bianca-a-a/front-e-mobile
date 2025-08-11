@@ -173,7 +173,7 @@ Precisei por três imagens, pois não couberam em apenas uma.
 Eu tive que colocar a imagem pequena, pois não coube na mesma imagem.
 
 A página não mudou nada, continua com as mesmas cores e mesmo estilo de letra, igual está no computador. Só ficou meio colado com a lateral da tela do celular.
-E a navbar contuna a mesma para selecionar, e as setas está posicionada na parte de baixo no celular, igual com está no computador., para ir tantto para a direita, mostrando mais sobre a Ásia, quantto ir para a esquerda, mostrando sobre a Europa.
+E a navbar contuna a mesma para selecionar, e as setas está posicionada na parte de baixo no celular, igual com está no computador, para ir tanto para a direita, mostrando mais sobre a Ásia, quanto ir para a esquerda, mostrando sobre a Europa.
 
 ## Países no mobile
 ![ásia](assets/png-Ásia2-paises-mobile.png)
@@ -183,7 +183,7 @@ E a navbar contuna a mesma para selecionar, e as setas está posicionada na part
 
 Tive que pôr as imagens em três partes, pois não coube tudo em uma imagem.
 
-Essa página não mudou nada tambèm, continua com a mesma aparência da que está no computador.
+Essa página não mudou nada também, continua com a mesma aparência da que está no computador.
 E tanto a navbar que está na parte superior do celular, quanto as setas que estão na parte inferior do celular, não tiveram modificação alguma.
 
 ### Problemas
@@ -193,7 +193,7 @@ Eu tive problema no momento de centralizar as imagens para o celular, pois quand
 Tive alguns (muitos) durante o processo desse código, pois não estava funcionando. Mas as minhas colegas (Bianca e Maria Luiza) me ajudaram nesses problemas.
 Eu achei a estética até que aceitável, não ficou feio. Porém, não ficou uma maravilha.
 Também, tive problemas com o computador, pois alguém excluiu tudo no meu computador. Então tive que abaixar tudo de volta e ajeitar tudo novamente.
-Se tem API, eu não faço a mínima idéia, se eu acabei colocando, eu provavelmente esqueci.
+Se tem API, eu não faço a mínima idéia, porém, se eu por um acaso ter colocando, eu provavelmente esqueci.
 Pode conter algum erro no código, então, já peço perdão.
 
 # Isabella V.
