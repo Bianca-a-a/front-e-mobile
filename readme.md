@@ -158,8 +158,8 @@ Precisei por três imagens, pois não couberam em apenas uma.
   Na parte de cima tem a navbar, nela contém "botões" para que possa selecionar em qual continente você queira ver.
   E na parte de baixo, possui "setas", para que você possa ir pro lado direito, que vai para a segunda página sobre a Ásia. E o lado esquerdo, que volta para a página sobre a Europa.
 
-  Na segunda página sobre a Ásia, mostra os páises que estão nesse continente, a navbar permanece igual.
-  As setas que etsão na parte de baixo, pode ir para a direita, que vai para a página falando sobre a Oceania, ou vai para a esquerda, que volta para a página falando sobre a Ásia.
+  Na segunda página sobre a Ásia, mostra os países que estão nesse continente, a navbar permanece igual.
+  As setas que estão na parte de baixo, pode ir para a direita, que vai para a página falando sobre a Oceania, ou vai para a esquerda, que volta para a página falando sobre a Ásia.
 
  ### Problemas
  O mapa que está na parte de cima, eu não consegui mudar o fundo dele, para que ele fiquasse da mesma cor do fundo da página.
