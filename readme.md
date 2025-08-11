@@ -173,7 +173,7 @@ Precisei por três imagens, pois não couberam em apenas uma.
 Eu tive que colocar a imagem pequena, pois não coube na mesma imagem.
 
 A página não mudou nada, continua com as mesmas cores e mesmo estilo de letra, igual está no computador. Só ficou meio colado com a lateral da tela do celular.
-E a navbar contuna a mesma para selecionar, e as setas está posicionada na parte de baixo no celular, igual com está no computador, para ir tanto para a direita, mostrando mais sobre a Ásia, quanto ir para a esquerda, mostrando sobre a Europa.
+E a navbar continua a mesma para selecionar, e as setas está posicionada na parte de baixo no celular, igual com está no computador, para ir tanto para a direita, mostrando mais sobre a Ásia, quanto ir para a esquerda, mostrando sobre a Europa.
 
 ## Países no mobile
 ![ásia](assets/png-Ásia2-paises-mobile.png)
