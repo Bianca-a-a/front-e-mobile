@@ -1,11 +1,80 @@
+# Geral
+O site é informativo sobre diferentes continentes no mundo, tendo explicações básicas sobre cada um dos lugares com fotos de bandeiras para melhor visualização.
+
+## Protótipo no Figma: https://www.figma.com/design/kNdovH9TzaNR7GEaSBYznT/Untitled?node-id=0-1&t=aGqxqMFFuf9ORMRm-1
+
+## Link de APIs: https://restcountries.com/v3.1/all?fields=name,flags
+
 # Maria L.
 ## Tela de login
+### Mobile 
+<img src="imagens-para-readme/img/europa/login-mobile.png">
+
+   A tela contem um fundo vermelho e os botões um vermelho mais escuro. A figura de personagem está centralizada junto aos botões, a figura de engrenagem está no canto inferior esquerdo.
+   Todos os botões são funcionais, com excação de apenas um, os botões de "e-mail", "senha" e "remember me", podem escrever e clicsr, já o botão de "login", pode ser clicado, mas não passa parra a página de selecionar, ele não funciona.
+
+### Computador 
+   <img src="imagens-para-readme/img/europa/login-computador.png">
+
+   As mesmas cores presentes na tela de celular, tem na de computador. A figura e os botões estão centralizados, apenas o botão de login e "remeber me" estão no canto inferior esquerdo.
+   Os botões contém a mesma função, e o problema do botão de login não foi resolvido. 
+   
+### Problemas
+    A tela de computador deu mais problemas, eu não consegui por os botões de login e "remember me" no centro igual aos outros botões. Um problema das duas telas foi o botão de login, ele não leva para a proxima página, se clicar no botão, não ira acontecer nada.
 
 ## Europa 1
+### Mobile
+<img src="imagens-para-readme/img/europa/europa1-mobile.png">
+<img src="imagens-para-readme/img/europa/europa2-mobile.png">
+Tive que colocar está pequena imagem, pois não coube tudo em apenas uma imagem só.
+
+   A tela tem uma cor verde clara, enquanto o título tem uma cor verde escuro, as escritas são em pretos, e tem uma fonte diferente do título.
+   A navbar está encima, possui a cor branca, contém "botões" que ao clicar encaminhara a primeira página sobre cada continente, também sendo possível ir para a página de login. 
+   Na parte de baixo, possui duas setas, a que mostra para a esquerda, volta para a página selecionar, para a direita, irá para a segunda página sobre a Europa. 
+
+<img src="imagens-para-readme/img/europa/Europa1-computador.png">
+<img src="imagens-para-readme/img/europa/europa2-computador.png">
+
+   As cores presentes na tela de celular, são iguais para a de computador. Partes escritas e a imagem estão coladas ao canto esquerdo.
+   A navbar continua com o mesmo funcionamento. 
+   As setas também coninuam com o mesmo funcionamento. Levando o usuário para a págian selecionar e a proxima página da Europa.
+
+   ### Probelamas
+
+    Eu não consegui mudar a cor do mapa, ele permaneceu azul. Para a tela computador, as letras ficaram um pouco pequenas, então ficou uma grande pare verde.
 
 ## Europa 2
+### Mobile
+<img src="imagens-para-readme/img/europa/Paises1-mobile.png">
+<img src="imagens-para-readme/img/europa/Paises2-mobile.png">
+<img src="imagens-para-readme/img/europa/Paises3-mobile.png">
+Precisei por três imagens, pois não couberam em apenas uma.
+
+   O fundo tem uma cor verde clara, e seu título um verde escuro. 
+   Está págiana tem 12 países e suas capitais, elas estão no canto esquerdo, com suas escritas ao lado e embaixo. 
+   A navbar está encima, contendo a mesma função da página anterior, com os "botões" para poder navegar de continente em continente.
+   As flechas estão encima, elas levam para a página anterior, a primeira da Europa, e para a página seguinte, levando para o continente da Asia. 
+
+### Computador
+
+<img src="imagens-para-readme/img/europa/Paises1-computador.png">
+<img src="imagens-para-readme/img/europa/paises2-computador.png">
+<img src="imagens-para-readme/img/europa/paises3-computador.png">
+
+   As cores presentes na tela para celular, estão identicas aqui. 
+   A navbar com o mesmo funcionamento e as flechas também.
+
+### Problemas
+
+    Um problemas que estragou completamente minha página, foi um codigo que colocaram na meu CSS, eu não sei se acabou sendo sem querer alguem do meu grupo ou uma pessoa de fora da sala. O codigo fez as capitais dos paíeses irem para baixo da imagem, antes elas estavam ao lado. Eu não consegui indentificar o erro que ainda estava deixando as escritas para baixo. 
+   
 
 ## Considerações finais
+
+   Boa parte dos códigos eu acabei desistindo de ajeiar, acabando que minhas páginas ficaram esteticamente feias.
+   O problema que houve com o código no meu CSS, eu não consegui ajeitar, e faltava pouco tempo para a entrega do trabalho, então eu apenas desesti de ajeitar.
+   Se tem API, eu não sei, se eu acabei colocando, eu provavelmente esqueci.
+   Talvez a erro de ortografia aqui na readme e no trabalho, sinceramente, me desculpe.
 
 
 # Bianca A.
@@ -81,11 +150,51 @@
 # Kamilly L.
 
 ## Ásia 1
+## Computador
+![ásia](assets/png-Ásia1-pc.png)
+![ásia](assets/png.Ásia2-paises-pc.png)
+
+  Nessas páginas, o fundo dele é um azul meio claro e meio escuro, para diferenciar da cor do título e dos subtítulos que são um azul marinho. Todos os textos sobre o continente são pretos.
+  Na parte de cima tem a navbar, nela contém "botões" para que possa selecionar em qual continente você queira ver.
+  E na parte de baixo, possui "setas", para que você possa ir pro lado direito, que vai para a segunda página sobre a Ásia. E o lado esquerdo, que volta para a página sobre a Europa.
+
+  Na segunda página sobre a Ásia, mostra os países que estão nesse continente, a navbar permanece igual.
+  As setas que estão na parte de baixo, pode ir para a direita, que vai para a página falando sobre a Oceania, ou vai para a esquerda, que volta para a página falando sobre a Ásia.
+
+ ### Problemas
+ O mapa que está na parte de cima, eu não consegui mudar o fundo dele, para que ele fiquasse da mesma cor do fundo da página.
 
 ## Ásia 2
+## Mobile
+![ásia](assets/png.Ásia1-mobile.png)
+![ásia](assets/png.Ásia1-baixo-mobile.png)
+
+
+Eu tive que colocar a imagem pequena, pois não coube na mesma imagem.
+
+A página não mudou nada, continua com as mesmas cores e mesmo estilo de letra, igual está no computador. Só ficou meio colado com a lateral da tela do celular.
+E a navbar continua a mesma para selecionar, e as setas está posicionada na parte de baixo no celular, igual com está no computador, para ir tanto para a direita, mostrando mais sobre a Ásia, quanto ir para a esquerda, mostrando sobre a Europa.
+
+## Países no mobile
+![ásia](assets/png-Ásia2-paises-mobile.png)
+![ásia](assets/png-Ásia2-paises2-mobile.png)
+![ásia](assets/png-Ásia2-paises3-mobile.png)
+
+
+Tive que pôr as imagens em três partes, pois não coube tudo em uma imagem.
+
+Essa página não mudou nada também, continua com a mesma aparência da que está no computador.
+E tanto a navbar que está na parte superior do celular, quanto as setas que estão na parte inferior do celular, não tiveram modificação alguma.
+
+### Problemas
+Eu tive problema no momento de centralizar as imagens para o celular, pois quando eu voltava para a página dos países, as imagens retornavam a ficar desigual.
 
 ## Considerações finais
-
+Tive alguns (muitos) problemas durante o processo desse código, pois não estava funcionando. Mas as minhas colegas (Bianca e Maria Luiza) me ajudaram nesses problemas.
+Eu achei a estética até que aceitável, não ficou feio. Porém, não ficou uma maravilha.
+Também, tive problemas com o computador, pois alguém excluiu tudo no meu computador. Então tive que abaixar tudo de volta e ajeitar tudo novamente.
+Se tem API, eu não faço a mínima idéia, porém, se eu por um acaso ter colocando, eu provavelmente esqueci.
+Pode conter algum erro no código, então, já peço perdão.
 
 # Isabella V.
 
@@ -94,7 +203,6 @@
 ## América 2
 
 ## Considerações finais
-
 
 # Samara S.
 
@@ -115,7 +223,7 @@ tela celular
 ## África 2
 ,
 ## Considerações finais
-
+094uu
 
 
 
