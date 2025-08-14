@@ -5,36 +5,44 @@ O site é informativo sobre diferentes continentes no mundo, tendo explicações
 
 ## Link de APIs: https://restcountries.com/v3.1/all?fields=name,flags
 
+
+# Se possivel, avaliar o trabalho individualmete
 # Maria L.
 ## Tela de login
-### Mobile 
-<img src="imagens-para-readme/img/europa/login-mobile.png">
+### Mobile
 
-   A tela contem um fundo vermelho e os botões um vermelho mais escuro. A figura de personagem está centralizada junto aos botões, a figura de engrenagem está no canto inferior esquerdo.
-   Todos os botões são funcionais, com excação de apenas um, os botões de "e-mail", "senha" e "remember me", podem escrever e clicsr, já o botão de "login", pode ser clicado, mas não passa parra a página de selecionar, ele não funciona.
+![Europa](./assets/login-mobile.png)
 
-### Computador 
-   <img src="imagens-para-readme/img/europa/login-computador.png">
+    A tela de login possui uma cor vermelha de fundo, figura e botões tem uma cor vermelha mais escuro,
+    os botões de login e senha funcionam. 
 
-   As mesmas cores presentes na tela de celular, tem na de computador. A figura e os botões estão centralizados, apenas o botão de login e "remeber me" estão no canto inferior esquerdo.
-   Os botões contém a mesma função, e o problema do botão de login não foi resolvido. 
-   
-### Problemas
-    A tela de computador deu mais problemas, eu não consegui por os botões de login e "remember me" no centro igual aos outros botões. Um problema das duas telas foi o botão de login, ele não leva para a proxima página, se clicar no botão, não ira acontecer nada.
+### Computador
+![Europa](./assets/login-computador.png)
+
+    As mesmas cores presentes na tela de celular, estão na de computador. Os botões de escrita e figuras estão centralizadas, apenas os botões de login e remember me não estão centralizados e não funcionam.
+
+### Problemas 
+    Eu não consegui fazer o botão de login funcionar, quando tentei aplicar o caminho para a pagina seguinte, ele colocou um outro botão de login que funcionava, um pouco mais a direita. 
+    Ao tentar deixar o botão de login no centro, ele mudava o tamanho do botão e deixava ele muito para baixo, fazedo ele ficar de uma forma gigante e muito longe das outras figuras. 
 
 ## Europa 1
 ### Mobile
-<img src="imagens-para-readme/img/europa/europa1-mobile.png">
-<img src="imagens-para-readme/img/europa/europa2-mobile.png">
+![Europa](./assets/europa1-mobile.png)
+
+
+
+![Europa](./assets/europa1-mobile2.png)
+
 Tive que colocar está pequena imagem, pois não coube tudo em apenas uma imagem só.
 
    A tela tem uma cor verde clara, enquanto o título tem uma cor verde escuro, as escritas são em pretos, e tem uma fonte diferente do título.
    A navbar está encima, possui a cor branca, contém "botões" que ao clicar encaminhara a primeira página sobre cada continente, também sendo possível ir para a página de login. 
    Na parte de baixo, possui duas setas, a que mostra para a esquerda, volta para a página selecionar, para a direita, irá para a segunda página sobre a Europa. 
 
-<img src="imagens-para-readme/img/europa/Europa1-computador.png">
-<img src="imagens-para-readme/img/europa/europa2-computador.png">
+### Computador
+![Europa](./assets/Europa1-computador.png)
 
+![Europa](./assets/europa1-computador2.png)
    As cores presentes na tela de celular, são iguais para a de computador. Partes escritas e a imagem estão coladas ao canto esquerdo.
    A navbar continua com o mesmo funcionamento. 
    As setas também coninuam com o mesmo funcionamento. Levando o usuário para a págian selecionar e a proxima página da Europa.
@@ -45,9 +53,12 @@ Tive que colocar está pequena imagem, pois não coube tudo em apenas uma imagem
 
 ## Europa 2
 ### Mobile
-<img src="imagens-para-readme/img/europa/Paises1-mobile.png">
-<img src="imagens-para-readme/img/europa/Paises2-mobile.png">
-<img src="imagens-para-readme/img/europa/Paises3-mobile.png">
+![Europa](./assets/europa2-mobile1.png)
+
+![Europa](./assets/europa2-mobile2.png)
+
+![Europa](./assets/europa2-mobile3.png)
+
 Precisei por três imagens, pois não couberam em apenas uma.
 
    O fundo tem uma cor verde clara, e seu título um verde escuro. 
@@ -57,9 +68,11 @@ Precisei por três imagens, pois não couberam em apenas uma.
 
 ### Computador
 
-<img src="imagens-para-readme/img/europa/Paises1-computador.png">
-<img src="imagens-para-readme/img/europa/paises2-computador.png">
-<img src="imagens-para-readme/img/europa/paises3-computador.png">
+![Europa](./assets/europa2-computador1.png)
+
+![Europa](./assets/europa2-computador2.png)
+
+![Europa](./assets/europa2-computador3.png)
 
    As cores presentes na tela para celular, estão identicas aqui. 
    A navbar com o mesmo funcionamento e as flechas também.
@@ -71,22 +84,23 @@ Precisei por três imagens, pois não couberam em apenas uma.
 
 ## Considerações finais
 
-   Boa parte dos códigos eu acabei desistindo de ajeiar, acabando que minhas páginas ficaram esteticamente feias.
+   Boa parte dos códigos eu acabei desistindo de ajeitar, acabando que minhas páginas ficaram esteticamente feias.
    O problema que houve com o código no meu CSS, eu não consegui ajeitar, e faltava pouco tempo para a entrega do trabalho, então eu apenas desesti de ajeitar.
    Se tem API, eu não sei, se eu acabei colocando, eu provavelmente esqueci.
    Talvez a erro de ortografia aqui na readme e no trabalho, sinceramente, me desculpe.
+
 
 
 # Bianca A.
 
 ## Tela de selecionar
 ### Mobile
-<img src="imagens-para-readme\Oceania\Oceania\tela-login-mobile.png">
+<img src="imagens-para-readme\tela-login-mobile.png">
     A tela tem o fundo vermelho com as letras e botões em um tom mais escuro com uma navbar preta no topo, sendo possível apertar nos três riscos para avaliar o site com estrelas.
     Todos os botões são clicáveis e levam até as páginas correspondentes. Já as flechas na parte de baixo direcionam as páginas uma a uma e/ou voltam para a tela de login.
 
 ### Computador
-<img src="imagens-para-readme\Oceania\Oceania\tela-login-pc.png">
+<img src="imagens-para-readme\tela-login-pc.png">
     As cores do fundo, fontes e botões são as mesmas do que na opção para celular. As opções de escolha estão centralizadas na página enquanto as flechas de baixo estão no canto inferior esquerdo. A opção de avalie-nos continua a mesma.
 
 ### Problemas
@@ -95,30 +109,24 @@ Precisei por três imagens, pois não couberam em apenas uma.
 
 ## Oceania 1
 ### Mobile
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania2-mobile.png">
+<img src="imagens-para-readme\tela-oceania1-mobile.png">
     O fundo é vermelho mais claro que as cores to título e dos subtítulos. O mapa está em azul e os textos de explicação em branco com fontes diferentes.
     A parte de baixo possui duas flechas. A que aponta para a esquerda leva o usuário para a página anterior "Ásia", já a flecha apontando para a direita o leva para a segunda página sobre o continente.
     A navbar do topo pode fazer o usuário caminhar entre as abas. podendo voltar até o login ou ir direto para a página final.
 
 ### Computador
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania1-pc.png">
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania1-baixo-pc.png">
-    Para usar em web, o fundo, cores e fontes continuam os mesmos. Mas todos os itens na navegação pela navbar aparecem, coisa que só aparecia no celular caso fosse clicado.
-    Todos os itens estão dispostos no lado esquerdo da tela, tendo também as flechas no final para passar as páginas.
-
-### Problemas
-    Não consegui mudar a cor do mapa para que ele fique vermelho como o resto do site e não consegui deixar tamanhos diferentes em cada aba de maneira aceitavelmente bonita.
-    Na tela web, não consegui mudar o texto para preencher melhor a vizualização.
+<img src="imagens-para-readme\tela-oceania1-pc.png">
+<img src="imagens-para-readme\tela-oceania1-baixo-pc.png">
 
 ## Oceania 2
 ### Mobile
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania2-mobile.png">
+<img src="imagens-para-readme\tela-oceania2-mobile.png">
     A segunda tela apresenta a mesma paleta de cores da aba anterior, ainda possuindo a navbar e as flechas da parte inferior para melhor navegação.
     Nessa página, diversas imagens são dispostas para a visualização de algumas bandeiras de países e locais famosos nesses lugares. As fotos possum o nome no topo para reconhecimento das imagens.
 
 ### Computador
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania2-pc.png">
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania2-pc-baixo.png">
+<img src="imagens-para-readme\tela-oceania2-pc.png">
+<img src="imagens-para-readme\tela-oceania2-pc-baixo.png">
     Para a web, a mesma coisa da página anterior acontece, a única diferença é que são fotos ao invés de textos.
 
 ### Problemas
@@ -127,15 +135,16 @@ Precisei por três imagens, pois não couberam em apenas uma.
 
 ## Tela final
 ### Mobile
-<img src="imagens-para-readme\Oceania\Oceania\tela-final-mobile.png">
+<img src="imagens-para-readme\tela-final-mobile.png">
+<img src="imagens-para-readme\tela-final-avaliacao-mobile.png">
     A tela final possui as mesmas cores do login, com subtítulos em vermelho e outros textos em branco.
     Possui a mesma navbar do "selecionar", possibilitando uma avaliação.
     Tem uma caixa de texto para que um feedback seja enviado ee embaixo tem os nomes de quem desenvolveu.
     A parte inferior possui a mesma flecha das outroas páginas, mas essa com apenas a possibilidade de volta, levando o usuário até a página de seleção novamente.
 
 ### Computador
-<img src="imagens-para-readme\Oceania\Oceania\tela-final-pc.png">
-<img src="imagens-para-readme\Oceania\Oceania\tela-final-avaliacao-pc copy.png">
+<img src="imagens-para-readme\tela-final-pc.png">
+<img src="imagens-para-readme\tela-final-avaliacao-pc.png">
     A tela final para computador é igual a para mobile, apenas com a caixa de texto sendo a única coisa centralizada na tela. De resto, tudo permanece igual.
 
 ### Problemas
@@ -150,51 +159,11 @@ Precisei por três imagens, pois não couberam em apenas uma.
 # Kamilly L.
 
 ## Ásia 1
-## Computador
-![ásia](assets/png-Ásia1-pc.png)
-![ásia](assets/png.Ásia2-paises-pc.png)
-
-  Nessas páginas, o fundo dele é um azul meio claro e meio escuro, para diferenciar da cor do título e dos subtítulos que são um azul marinho. Todos os textos sobre o continente são pretos.
-  Na parte de cima tem a navbar, nela contém "botões" para que possa selecionar em qual continente você queira ver.
-  E na parte de baixo, possui "setas", para que você possa ir pro lado direito, que vai para a segunda página sobre a Ásia. E o lado esquerdo, que volta para a página sobre a Europa.
-
-  Na segunda página sobre a Ásia, mostra os países que estão nesse continente, a navbar permanece igual.
-  As setas que estão na parte de baixo, pode ir para a direita, que vai para a página falando sobre a Oceania, ou vai para a esquerda, que volta para a página falando sobre a Ásia.
-
- ### Problemas
- O mapa que está na parte de cima, eu não consegui mudar o fundo dele, para que ele fiquasse da mesma cor do fundo da página.
 
 ## Ásia 2
-## Mobile
-![ásia](assets/png.Ásia1-mobile.png)
-![ásia](assets/png.Ásia1-baixo-mobile.png)
-
-
-Eu tive que colocar a imagem pequena, pois não coube na mesma imagem.
-
-A página não mudou nada, continua com as mesmas cores e mesmo estilo de letra, igual está no computador. Só ficou meio colado com a lateral da tela do celular.
-E a navbar continua a mesma para selecionar, e as setas está posicionada na parte de baixo no celular, igual com está no computador, para ir tanto para a direita, mostrando mais sobre a Ásia, quanto ir para a esquerda, mostrando sobre a Europa.
-
-## Países no mobile
-![ásia](assets/png-Ásia2-paises-mobile.png)
-![ásia](assets/png-Ásia2-paises2-mobile.png)
-![ásia](assets/png-Ásia2-paises3-mobile.png)
-
-
-Tive que pôr as imagens em três partes, pois não coube tudo em uma imagem.
-
-Essa página não mudou nada também, continua com a mesma aparência da que está no computador.
-E tanto a navbar que está na parte superior do celular, quanto as setas que estão na parte inferior do celular, não tiveram modificação alguma.
-
-### Problemas
-Eu tive problema no momento de centralizar as imagens para o celular, pois quando eu voltava para a página dos países, as imagens retornavam a ficar desigual.
 
 ## Considerações finais
-Tive alguns (muitos) problemas durante o processo desse código, pois não estava funcionando. Mas as minhas colegas (Bianca e Maria Luiza) me ajudaram nesses problemas.
-Eu achei a estética até que aceitável, não ficou feio. Porém, não ficou uma maravilha.
-Também, tive problemas com o computador, pois alguém excluiu tudo no meu computador. Então tive que abaixar tudo de volta e ajeitar tudo novamente.
-Se tem API, eu não faço a mínima idéia, porém, se eu por um acaso ter colocando, eu provavelmente esqueci.
-Pode conter algum erro no código, então, já peço perdão.
+
 
 # Isabella V.
 
@@ -204,26 +173,15 @@ Pode conter algum erro no código, então, já peço perdão.
 
 ## Considerações finais
 
+
 # Samara S.
 
 ## África 1
 
-tela computador
-![](image.png)
-![](image-2.png)
-![](image-3.png)
-![](image-4.png)
-a tela é composta pelo fundo preto com uma imagem do continente africano com um titulo escrito Continente Africano e tem 6 (seis) botões cada um escrito as 6 (seis) partes do continente, a Afica do Norte, Africa Ocidental, Africa Oriental, Africa Subssariana, Africa Central e Africa Austral os botões são da cor laranja com a escrita preta.
-Os botões funcionam só que ele não vai pra pagina nenhuma porque eu não terminei kkkk.
-
-# problemas 
-Teve varios mais eu acho que o que eu mais tive dificuldade foi com o botão, porque eu não estava conseguindo mudaar a cor tamanho da fonte a e tambem mesmo que tenha tido 3 meses pra fazer eu demorei muito pra fazer uma pagina achei bem chatinho de fazer o trabalho mais foi legalzinho ao mesmo tempo 
-tela celular
-![](image-5.png)
 ## África 2
-,
+
 ## Considerações finais
-094uu
+
 
 
 
