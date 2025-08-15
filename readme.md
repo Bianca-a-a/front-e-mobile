@@ -82,12 +82,24 @@ Precisei por três imagens, pois não couberam em apenas uma.
     Um problemas que estragou completamente minha página, foi um codigo que colocaram na meu CSS, eu não sei se acabou sendo sem querer alguem do meu grupo ou uma pessoa de fora da sala. O codigo fez as capitais dos paíeses irem para baixo da imagem, antes elas estavam ao lado. Eu não consegui indentificar o erro que ainda estava deixando as escritas para baixo. 
    
 
+## Commits
+![Commit](./assets/commit1.png)
+
+![Commit](./assets/commit2.png)
+
+![Commit](./assets/commit3.png)
+
+![Commit](./assets/commit4.png)
+
+![Commit](./assets/commit5.png)
+
 ## Considerações finais
 
    Boa parte dos códigos eu acabei desistindo de ajeitar, acabando que minhas páginas ficaram esteticamente feias.
    O problema que houve com o código no meu CSS, eu não consegui ajeitar, e faltava pouco tempo para a entrega do trabalho, então eu apenas desesti de ajeitar.
    Se tem API, eu não sei, se eu acabei colocando, eu provavelmente esqueci.
    Talvez a erro de ortografia aqui na readme e no trabalho, sinceramente, me desculpe.
+   Agora está refeita a readme, tem commit, link da API, link do figma, tem prints do projeto, espero que esteja um pouco mais certo agora.
 
 
 
