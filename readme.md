@@ -178,6 +178,7 @@ Precisei por três imagens, pois não couberam em apenas uma.
 
 ## Ásia 1 - Computador
 ![pc](assets/png-Ásia1-pc.png)
+
 ![pc](assets/png.Ásia2-paises-pc.png)
 
 Nessas páginas, o fundo delas são um azul meio claro e meio escuro, para diferenciar dos títulos que são um azul marinho, e os textos sobre o continente que são da cor preta.
@@ -190,14 +191,18 @@ Tive um problema com as imagens, pois eu mudava o tamanho e tentava centralizar 
 
 ## Ásia 2 - Mobile
 ![mobile](assets/png.Ásia1-mobile.png)
+
 ![mobile](assets/png.Ásia1-baixo-mobile.png)
+
 Tive que pôr a segunda imagem, pois não coube tudo em uma imagem só.
 
 Mostra a primeira parte sobre a Ásia, e nela não teve mudança alguma, permanece igual. 
 A navbar, as setas, os títulos e as escritas, permanecem sendo as mesmas, como está no computador.
 
 ![mobile](assets/png-Ásia2-paises-mobile.png)
+
 ![mobile](assets/png-Ásia2-paises2-mobile.png)
+
 ![mobile](assets/png-Ásia2-paises3-mobile.png)
 
 Nessa parte dos países, não coube em uma única imagem, então, separei ela em três partes.
