@@ -215,6 +215,9 @@ Precisei colocar três imagens pois o layout não coube em apenas uma.
 ### Problemas
     A única coisa que não consegui fazer foi deixar, na web, a caixa de texto junto com as outras coisas.
 
+
+![Commit](./assets/final-pc.png)
+
 ## Considerações finais
     Desisti de ajustar um monte de coisas depois de diversos erros piorando a situação. Achei esteticamente feio, mas não me importo mais.
     Não sei se coloquei API ou não, nem sei o que fiz naquela hora. Desisti de arrumar o botão do "Selecionar" e realmente tentei várias vezes.
