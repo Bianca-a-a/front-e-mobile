@@ -1,9 +1,9 @@
 # Geral
-<<<<<<< HEAD
+
 O site é informativo sobre diferentes continentes no mundo
 
 
-=======
+
 O site é informativo sobre diferentes continentes no mundo, tendo explicações básicas sobre cada um dos lugares com fotos de bandeiras para melhor visualização.
 
 ## Protótipo no Figma: https://www.figma.com/design/kNdovH9TzaNR7GEaSBYznT/Untitled?node-id=0-1&t=aGqxqMFFuf9ORMRm-1
@@ -12,7 +12,7 @@ O site é informativo sobre diferentes continentes no mundo, tendo explicações
 
 
 # Se possivel, avaliar o trabalho individualmete
->>>>>>> 925f2ecbc0216a24f3dacf097c70d62510a997bb
+
 # Maria L.
 ## Tela de login
 ### Mobile
@@ -176,12 +176,36 @@ Precisei por três imagens, pois não couberam em apenas uma.
 
 # Kamilly L.
 
-## Ásia 1
+## Ásia 1 - Computador
+![pc](assets/png-Ásia1-pc.png)
+![pc](assets/png.Ásia2-paises-pc.png)
 
-## Ásia 2
+Nessas páginas, o fundo delas são um azul meio claro e meio escuro, para diferenciar dos títulos que são um azul marinho, e os textos sobre o continente que são da cor preta.
+Na primeira imagem mostra um pouco sobre o continente, na parte superior tem uma navbar, que permite que a pessoa escolha para qual continente ela quer ir.
+E na parte inferior, temos duas setas, que permite que a pessoa vá tanto para esquerda quanto para direita (esquerda vai para os países da Europa, e a direita vai para os países da Ásia).
+Na segunda imagem mostra os países que ficam na Ásia, o fundo continua o mesmo da primeira imagem, e o título e a escrita dos paises sem mudanças também. Também, possui a navbar e as setas. (esquerda volta para a página da ásia e a direita vai para o continente Oceania).
+
+## Problema
+Tive um problema com as imagens, pois eu mudava o tamanho e tentava centralizar elas. Mas, toda vez que eu entrava na página novamente, elas voltavam para o tamanho original.
+
+## Ásia 2 - Mobile
+![mobile](assets/png.Ásia1-mobile.png)
+![mobile](assets/png.Ásia1-baixo-mobile.png)
+Tive que pôr a segunda imagem, pois não coube tudo em uma imagem só.
+
+Mostra a primeira parte sobre a Ásia, e nela não teve mudança alguma, permanece igual. 
+A navbar, as setas, os títulos e as escritas, permanecem sendo as mesmas, como está no computador.
+
+![mobile](assets/png-Ásia2-paises-mobile.png)
+![mobile](assets/png-Ásia2-paises2-mobile.png)
+![mobile](assets/png-Ásia2-paises3-mobile.png)
+Nessa parte dos países, não coube em uma única imagem, então, separei ela em três partes.
+
+A página dos países, permanecem sendo as mesmas. Pois, não tinha o que mudar. Como nas outras páginas, tem a navbar e as setas, que vão para as mesmas páginas que eu escrevi na parte do computador.
+
 
 ## Considerações finais
-
+Bom, eu achei a estética até aceitável, não ficou feio, mas também não ficou mil maravilhas. Tive muitos problemas no decorrer desse trabalho. Tive problemas com o computador, pois alguém desinstalou tudo no meu computador, e tive que abaixar e arrumar tudo novamente. Se tiver algum problema com algum código, desde já peço perdão.
 
 # Isabella V.
 
