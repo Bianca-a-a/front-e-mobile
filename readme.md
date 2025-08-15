@@ -69,8 +69,8 @@ O site é informativo sobre diferentes continentes no mundo
     A parte inferior possui a mesma flecha das outroas páginas, mas essa com apenas a possibilidade de volta, levando o usuário até a página de seleção novamente.
 
 ### Computador
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania2-pc.png">
-<img src="imagens-para-readme\Oceania\Oceania\tela-oceania2-pc.png">
+<img src="imagens-para-readme\Oceania\Oceania\tela-final-pc.png">
+<img src="imagens-para-readme\Oceania\Oceania\tela-final-avaliacao-pc copy.png">
     A tela final para computador é igual a para mobile, apenas com a caixa de texto sendo a única coisa centralizada na tela. De resto, tudo permanece igual.
 
 ### Problemas
@@ -85,6 +85,9 @@ O site é informativo sobre diferentes continentes no mundo
 # Kamilly L.
 
 ## Ásia 1
+## Computador
+<img src="imagens-para-readme\Ásia\Ásia\tela-asia1-pc.png">
+  Nessa página, o fundo dele é um azul claro para diferenciar do título e do subtítulo, que são um azul escuro. A fonte e a cor permanecem o mesmo.
 
 ## Ásia 2
 
@@ -104,10 +107,22 @@ O site é informativo sobre diferentes continentes no mundo
 
 ## África 1
 
+tela computador
+![](image.png)
+![](image-2.png)
+![](image-3.png)
+![](image-4.png)
+a tela é composta pelo fundo preto com uma imagem do continente africano com um titulo escrito Continente Africano e tem 6 (seis) botões cada um escrito as 6 (seis) partes do continente, a Afica do Norte, Africa Ocidental, Africa Oriental, Africa Subssariana, Africa Central e Africa Austral os botões são da cor laranja com a escrita preta.
+Os botões funcionam só que ele não vai pra pagina nenhuma porque eu não terminei kkkk.
+
+# problemas 
+Teve varios mais eu acho que o que eu mais tive dificuldade foi com o botão, porque eu não estava conseguindo mudaar a cor tamanho da fonte a e tambem mesmo que tenha tido 3 meses pra fazer eu demorei muito pra fazer uma pagina achei bem chatinho de fazer o trabalho mais foi legalzinho ao mesmo tempo 
+tela celular
+![](image-5.png)
 ## África 2
-
+,
 ## Considerações finais
-
+094uu
 
 
 

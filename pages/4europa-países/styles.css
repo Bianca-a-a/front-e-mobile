@@ -16,48 +16,35 @@ img{
     text-align: left;
 }
 
-        .paises {
-          display: flex;
-          align-items: flex-start;
-          width: 41; 
-          height: 31px;
-          margin: 10px;
-          flex-direction: column;
-          gap: 10px;
-        }
+.paises {
+display: flex;
+align-items: flex-start;
+width: 41; 
+height: 31px;
+margin: 10px;
+flex-direction: column;
+gap: 10px;
+}
 
-<<<<<<< HEAD
-              .paises img {
-               width: 41; 
-               height: 31px; 
-               float: left;
-         }
 
-                .paises p {
-                 width: 41px; 
-             }
+.paises img {
+width: 41; 
+height: 31px; 
+float: left;
+}
 
-                   .cards {
-                    display: flex;
-                    flex-direction: row;
-                    gap: 10px;
-                   width: 100%;
-               } 
+.paises p {
+width: 41px; 
+float: right;
+}
+
+.cards {
+display: flex;
+flex-direction: row;
+gap: 10px;
+width: 100%;
+} 
        
-=======
- .cards{
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    width: 100%;
- }
-
- .pagination{
-<<<<<<< HEAD
- padding-top: 185%;
- }
-=======
- padding-top: 160%;
- }
->>>>>>> 7619b3f3d87ef5935d80c565321333c86ac006d9
->>>>>>> 5b1d738f2b83423d65922d35a3ef3ead6c715f59
+.page-item {
+    border-radius: 50px;
+}
