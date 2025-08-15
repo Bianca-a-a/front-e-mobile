@@ -199,8 +199,8 @@ A navbar, as setas, os títulos e as escritas, permanecem sendo as mesmas, como 
 ![mobile](assets/png-Ásia2-paises-mobile.png)
 ![mobile](assets/png-Ásia2-paises2-mobile.png)
 ![mobile](assets/png-Ásia2-paises3-mobile.png)
-Nessa parte dos países, não coube em uma única imagem, então, separei ela em três partes.
 
+Nessa parte dos países, não coube em uma única imagem, então, separei ela em três partes.
 A página dos países, permanecem sendo as mesmas. Pois, não tinha o que mudar. Como nas outras páginas, tem a navbar e as setas, que vão para as mesmas páginas que eu escrevi na parte do computador.
 
 
